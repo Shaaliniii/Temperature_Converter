@@ -1,2 +1,9 @@
-# BharatInternshipprojects
-I have completed my tasks for the virtual internship program at Bharat Intern. Their are two projects one is netflix clone website and the other one is temperature converter .
+# Project Name:Temperature Converter
+
+# Description
+The Temperature Converter Project is a simple web application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. This project is designed to demonstrate basic web development skills, including structuring content with HTML, styling with CSS, and adding interactivity with JavaScript.
+
+
+<-----------------------------End Of file--------------------------------------->
+
+
